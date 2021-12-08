@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	padding: 50px;
+}
+
+p{
+	color: blue;
+	font-size: large;
+}
